@@ -1,0 +1,2 @@
+1. Porque o computador só segue instruções que o usuário passa, se o usuário passar instruções erradas logo ele executará da forma que foi passado.
+2. O programador tem que saber bem quais instruções passar, e de forma correta, para o computador para que ele não execute de forma errada.
